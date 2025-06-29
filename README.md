@@ -8,7 +8,7 @@
 ### Criando sua Primeira Landing Page com HTML e CSS
 
 Atividade executada conforme orientações contidas no vídeo do link e descritas abaixo, retiradas da [Descrição do Desafio](https://web.dio.me/lab/desafio-primeiros-passos-com-css/learning/401c88c4-c068-481c-99f0-7f0565542e90).  
-O resultado do desafio é composto pelas alterações e ajustes feitos no repositório do GitHub (link abaixo) conforme achei necessário e, mesmo assim, não deixa de ser uma réplica do trabalho original.
+O resultado do desafio é composto pelas alterações e ajustes feitos no repositório do GitHub (link abaixo) conforme achei necessário e, mesmo assim, não deixa de ser uma réplica do trabalho original.  
 <small><sup>Obs.: O link acima somente é acessado através de uma conta na plataforma DIO.</sup></small>
 
 ---
