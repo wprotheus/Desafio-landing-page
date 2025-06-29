@@ -11,9 +11,11 @@ Atividade executada conforme orientações contidas no vídeo do link e descrita
 O resultado do desafio é compostos pelas alterações e ajustes feitos no repositório do GitHub (link abaixo) conforme achei necessário e, mesmo assim, não deixando de ser uma réplica do trabalho original.
 <small><sup>Obs.: O link acima somente é acessado através de uma conta na plataforma DIO.</sup></small>
 
+---
+##### ***Resultado final do desafio -> [Minha Landing Page](https://wprotheus.github.io/Desafio-landing-page/)***
+---
 
 ### Descrição do Desafio  
-
 > Seja criativo(a)! Explore todos os conceitos que aprendemos nessa imersão e replique (ou melhore, porque não) este projeto prático. Para isso, seu próprio repositório e, com isso, aumente ainda mais seu portfólio de projetos no GitHub!
  
 > Dica: você pode dar um "fork" no Repositório do GitHub (App) para organizar suas alterações e evoluções, mantendo uma referência direta ao código original.
