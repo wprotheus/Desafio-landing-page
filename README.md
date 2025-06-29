@@ -1,4 +1,4 @@
-# DIO - Java and AI in Europe
+# DIO - Ri Happy - Front-end do Zero
 
 ## Autor
 🔸[wprotheus](https://github.com/wprotheus)
